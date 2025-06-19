@@ -66,3 +66,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+//Android Developers, 2024. Build your first app. [online] Android Developers. Available at: https://developer.android.com/training/basics/firstapp [Accessed 19 Jun 2025].
+
+//JetBrains, 2024. Kotlin Documentation. [online] Kotlinlang.org. Available at: https://kotlinlang.org/docs/home.html [Accessed 19 Jun 2025].
+
+//Google, 2024. Activities and Intents. [online] Android Developers. Available at: https://developer.android.com/guide/components/activities/intro-activities [Accessed 19 Jun 2025].
